@@ -2,7 +2,7 @@
 <template>
     <div>
       <h1>Home</h1>
-      <p>Bienvenido a la página de inicio. ni pedo</p>
+      <p>Bienvenido a la página de inicio. ni pedodasdsa</p>
     </div>
   </template>
   
