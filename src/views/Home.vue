@@ -2,7 +2,7 @@
 <template>
     <div>
       <h1>Home</h1>
-      <p>Bienvenido a la página de inicio. Lo porque</p>
+      <p>Bienvenido a la página de inicio. ya quedo</p>
     </div>
   </template>
   
